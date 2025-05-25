@@ -16,7 +16,7 @@
 
 .navbar-brand:hover img {
   transform: scale(1.3);
-  filter: brightness(1.2);
+  
 }
 .nav-item {
   position: relative;
